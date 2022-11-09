@@ -1,20 +1,27 @@
 ### 👋 Efrain
 
-####Working on a modal analysis web tool.
-Remember multi degree of freedom vibration[?](https://www.brown.edu/Departments/Engineering/Courses/En4/Notes/vibrations_mdof/vibrations_mdof.htm), well building that on the web.
+#### Working on a modal analysis web tool.
+
+Remember [multi degree of freedom vibration?](https://www.brown.edu/Departments/Engineering/Courses/En4/Notes/vibrations_mdof/vibrations_mdof.htm), well building that on the web.
 <br/>
 Stack:
 -Frontend: svelte/typescript/tailwindcss
 -Frontend-wasm: rust (check my public repo [modal_analysis](https://github.com/esoteloferry/modal_analysis))
 
-####Currently learning🌱
+#### Currently learning🌱
+
 -Rust
 
-####Software tools😄
+#### Software tools😄
+
 -Python
 -Go
 -Rust
 -AWS
+
+#### Contact📫
+
+[linkedin](https://www.linkedin.com/in/efrainsoteloferry/)
 
 <!--
 **esoteloferry/esoteloferry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
