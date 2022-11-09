@@ -14,16 +14,18 @@ Stack:
 
 -Rust
 
-#### Software tools😄
+#### Toolbox😄
 
--Python
--Go
--Rust
--AWS
+- Python
+- Go
+- Rust
+- Typescript
+- Svelte
+- AWS
 
 #### Contact📫
 
-[linkedin](https://www.linkedin.com/in/efrainsoteloferry/)
+[Linkedin](https://www.linkedin.com/in/efrainsoteloferry/)
 
 <!--
 **esoteloferry/esoteloferry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
