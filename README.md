@@ -8,7 +8,7 @@ Remember [multi degree of freedom vibration?](https://www.brown.edu/Departments/
 Stack:
 
 - Frontend: svelte/typescript/tailwindcss
-- Frontend-wasm: rust (check my public repo [modal_analysis](https://github.com/esoteloferry/modal_analysis))
+- Frontend-wasm: rust (check my public repo [modal_analysis](https://github.com/esoteloferry/modal_analysis/tree/dev))
 
 #### Currently learning🌱
 
