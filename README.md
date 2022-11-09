@@ -12,7 +12,7 @@ Stack:
 
 #### Currently learning🌱
 
--Rust
+- Rust
 
 #### Toolbox😄
 
