@@ -22,6 +22,7 @@ Stack:
 - Rust
 - Typescript
 - Svelte
+- ThreeJS
 - AWS
 
 #### Contact📫
