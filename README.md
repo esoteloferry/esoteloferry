@@ -13,6 +13,7 @@ Stack:
 #### Currently learning🌱
 
 - Rust
+- Firebase
 
 #### Toolbox😄
 
