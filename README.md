@@ -4,7 +4,7 @@
 
 - 2024-2025 keylogme.com (https://github.com/keylogme) : track your keyboard usage. Golang open source project.
 
-- 2025-current pencilroads.com : help (wind turbine) engineers run simulations at scale and reliably. The Github and AWS for engineers.
+- 2025-current https://pencilroads.com : help (wind turbine) engineers run simulations at scale and reliably. The Github and AWS for engineers.
 
 
 
