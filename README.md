@@ -1,19 +1,11 @@
 ### 👋 Efrain
 
-#### Working on a modal analysis web tool.
+#### Working on
 
-Remember [multi degree of freedom vibration?](https://www.brown.edu/Departments/Engineering/Courses/En4/Notes/vibrations_mdof/vibrations_mdof.htm), well building that on the web.
-<br/>
+2024-2025 keylogme.com (https://github.com/keylogme) : track your keyboard usage. Golang open source project.
+2025-current pencilroads.com : help (wind turbine) engineers run simulations at scale and reliably. The Github and AWS for engineers.
 
-Stack:
 
-- Frontend: svelte/typescript/tailwindcss
-- Frontend-wasm: rust (check my public repo [modal_analysis](https://github.com/esoteloferry/modal_analysis/tree/dev))
-
-#### Currently learning🌱
-
-- Rust
-- Firebase
 
 #### Toolbox😄
 
